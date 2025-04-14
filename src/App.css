@@ -1,0 +1,10 @@
+@import "tailwindcss";
+
+@theme {
+  --clay-pink-shadow-body: 12px 12px 24px 0 rgb(193, 81, 140, 0.8),
+    inset -12px -12px 24px rgba(244, 114, 182, 0.8), inset 6px 6px 12px #fabedd;
+  --clay-pink-shadow-pfp: inset 6px 6px 12px 0 #f251a5,
+    inset -12px -12px 24px 0 rgba(239, 70, 158, 0.92);
+  --clay-pink-shadow-heading: 6px 6px 12px 0 rgba(206, 34, 124, 0.6),
+    inset -12px -12px 24px 0 rgba(212, 53, 136, 0.9), inset 6px 6px 12px 0 #d74893;
+}
